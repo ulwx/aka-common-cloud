@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Context docBase="fileUpload" path="/fileUpload"  reloadable="true" >
+  
+<!--   <Valve className="org.apache.catalina.valves.AccessLogValve" -->
+<!--          prefix="access_log." suffix=".txt"  -->
+<!--          pattern="%h %l %u %t %r %s %B - %T" reloadable="true"/> -->
+ 
+</Context>
+
+

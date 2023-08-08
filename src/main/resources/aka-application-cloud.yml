@@ -3,5 +3,3 @@ server:
     context-path: /${spring.application.name}
   tomcat:
     connection-timeout: 20000
-logging:
-  config: classpath:logback-spring.xml
